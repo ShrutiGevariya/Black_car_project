@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+.btn{
+    color: white;
+    background-color: #82b440;;
+    margin-left: 1000px;
+    box-shadow: 0 2px 0 #6f9a37; 
+}
+.col-md-3{
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 8px;
+}
+.col-md-3:hover{
+    border-color: royalblue;
+}
+hr{
+    color: red;
+    /*height: 50px;*/
+    width: 1100px;
+}
